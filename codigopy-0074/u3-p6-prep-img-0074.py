@@ -2,6 +2,7 @@ import cv2
 import numpy as np
 import os
 import csv
+print("JAQUEZ CAMACHO JOEL ANDRES 0074")
 
 # 1. Configuración inicial
 carpeta_original = "img-original-0074"
@@ -112,3 +113,4 @@ print(f"Imágenes aprobadas:  {imagenes_aprobadas}")
 print(f"Imágenes a revisar:  {imagenes_procesadas - imagenes_aprobadas}")
 print(f"\n📁 Reporte guardado en: {ruta_reporte}")
 print("✅ PRÁCTICA TERMINADA EXITOSAMENTE")
+print("JAQUEZ CAMACHO JOEL ANDRES 0074")
